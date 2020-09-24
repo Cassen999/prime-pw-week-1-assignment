@@ -29,4 +29,5 @@ p {
 /* Change the font-family of your list */
 .list {
   font-family: serif;
+  color: white;
 }
