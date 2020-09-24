@@ -1,5 +1,7 @@
 /* Give your page a fun background color */
-background-color: black
+body {
+  background-color: black
+}
 /* Make the header and footer a different color from the background */
 h1 {
   color: white
