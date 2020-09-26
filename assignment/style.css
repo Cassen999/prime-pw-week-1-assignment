@@ -7,21 +7,23 @@ h1 {
   color: white;
   text-align: center;
 };
-footer {
-  color: #446AF8;
-  text-align: center;
-};
 
+}
+footer {
+  text-align: center;
+  color: white;
+}
+
+footer p {
+  text-align: center;
+}
 h4 {
   text-align: center;
+  color: black;
 }
 /* Align the h1 containing your name in the center of the header*/
-}
 /* Make your p tag a different color and italic */
-.p {
-  font-style: italic;
-  color: blue;
-}
+
 /* Put a border around your image */
 .center {
   display: block;
